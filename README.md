@@ -22,10 +22,10 @@ This repository documents my journey of learning Python programming fundamentals
 - [x] Day 1 - Python Basics
 - [x] Day 2 - Introduction to Python
 - [x] Day 3 - Operators
-- [ ] Day 4 - Input and Output
-- [ ] Day 5 - Conditional Statements
-- [ ] Day 6 - Loops
-- [ ] Day 7 - Functions
+- [x] Day 4 - Input and Output
+- [x] Day 5 - Conditional Statements
+- [x] Day 6 - Loops
+- [x] Day 7 - Functions
 
 More topics will be added as I progress.
 
