@@ -26,9 +26,12 @@ This repository documents my journey of learning Python programming fundamentals
 - [x] Day 5 - Conditional Statements
 - [x] Day 6 - Loops
 - [x] Day 7 - Functions
-- [ ] Day 8 - Python Fundamentals in Practice 
-- [ ] Day 9 - Strings 
-- [ ] Day 10 - String Indexing & Slicing 
+- [x] Day 8 - Python Fundamentals in Practice 
+- [x] Day 9 - Strings 
+- [x] Day 10 - String Indexing & Slicing
+- [x] Day 11 - Lists
+- [ ] Day 12 - List Methods & List Comprehension
+- [ ] Day 13 - Tuples & Sets
 
 
 More topics will be added as I progress.
