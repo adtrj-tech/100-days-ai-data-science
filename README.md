@@ -30,8 +30,11 @@ This repository documents my journey of learning Python programming fundamentals
 - [x] Day 9 - Strings 
 - [x] Day 10 - String Indexing & Slicing
 - [x] Day 11 - Lists
-- [ ] Day 12 - List Methods & List Comprehension
-- [ ] Day 13 - Tuples & Sets
+- [x] Day 12 - List Methods & List Comprehension
+- [x] Day 13 - Tuples & Sets
+- [x] Day 14 - Dictionaries
+- [ ] Day 15 - Structured Data with Lists & Dictionaries
+- [ ] Day 16 - Functions with Structured Data
 
 
 More topics will be added as I progress.
