@@ -33,8 +33,11 @@ This repository documents my journey of learning Python programming fundamentals
 - [x] Day 12 - List Methods & List Comprehension
 - [x] Day 13 - Tuples & Sets
 - [x] Day 14 - Dictionaries
-- [ ] Day 15 - Structured Data with Lists & Dictionaries
-- [ ] Day 16 - Functions with Structured Data
+- [x] Day 15 - Structured Data with Lists & Dictionaries
+- [x] Day 16 - Functions with Structured Data
+- [x] Day 17 - Nested Dictionaries
+- [x] Day 18 - Python Problem Solving
+- [x] Day 19 - Find Duplicate Elements
 
 
 More topics will be added as I progress.
