@@ -1,12 +1,14 @@
 # 100 Days of AI & Data Science 🚀
 
-This repository documents my 100-day journey toward becoming placement-ready for roles in Data Science, Machine Learning, and AI.
+This repository documents my 100-day journey toward becoming placement-ready for roles in Data Science, Machine Learning, and Artificial Intelligence.
 
-The journey covers Python, SQL, Data Science, Machine Learning, AI, problem solving, and practical projects.
+The journey focuses on building strong programming fundamentals, solving placement-oriented problems, working with data, learning Machine Learning and AI, and developing practical projects.
+
+---
 
 ## 🐍 Python
 
-### Fundamentals
+### Fundamentals & Problem Solving
 
 - [x] [Day 1 - Python Basics](day01_python_basics.py)
 - [x] [Day 2 - Introduction to Python](day02_python_intro.py)
@@ -28,19 +30,35 @@ The journey covers Python, SQL, Data Science, Machine Learning, AI, problem solv
 - [x] [Day 18 - Python Problem Solving](day18_python_problem_solving.py)
 - [x] [Day 19 - Find Duplicate Elements](day19_find_duplicates.py)
 - [x] [Day 20 - Student Performance Analyzer](day20_student_performance_analyzer.py)
+- [x] [Day 21 - Functions in Depth](day21_python_functions.py)
+- [x] [Day 22 - List, Dictionary & Set Comprehensions](day22_comprehensions.py)
+- [x] [Day 23 - Advanced Function Techniques](day23_function_techniques.py)
+- [ ] Day 24 - Exception Handling
+- [ ] Day 25 - File Handling
+- [ ] Day 26 - Modules & Packages
+- [ ] Day 27 - Object-Oriented Programming
+- [ ] Day 28 - OOP Practice
+- [ ] Day 29 - Python Problem Solving
+- [ ] Day 30 - Python Mini Project & Revision
+
+---
 
 ## 🗄️ SQL
 
-- [x] [Day 21 - SQL SELECT](day21_sql_select.sql)
-- [ ] Day 22 - WHERE & Filtering
-- [ ] Day 23 - ORDER BY & LIMIT
-- [ ] Day 24 - Aggregate Functions
-- [ ] Day 25 - GROUP BY & HAVING
-- [ ] Day 26 - SQL Practice Problems
-- [ ] Day 27 - JOINs
-- [ ] Day 28 - JOIN Practice
-- [ ] Day 29 - Subqueries
-- [ ] Day 30 - SQL Placement Challenge
+### SQL Fundamentals & Placement Preparation
+
+- [ ] Day 31 - SQL SELECT
+- [ ] Day 32 - WHERE & Filtering
+- [ ] Day 33 - ORDER BY & LIMIT
+- [ ] Day 34 - Aggregate Functions
+- [ ] Day 35 - GROUP BY & HAVING
+- [ ] Day 36 - SQL Practice Problems
+- [ ] Day 37 - JOINs
+- [ ] Day 38 - JOIN Practice
+- [ ] Day 39 - Subqueries
+- [ ] Day 40 - SQL Placement Challenge
+
+---
 
 ## 📊 Data Science
 
@@ -51,6 +69,8 @@ The journey covers Python, SQL, Data Science, Machine Learning, AI, problem solv
 - [ ] Data Visualization
 - [ ] Statistics
 
+---
+
 ## 🤖 Machine Learning
 
 - [ ] Machine Learning Fundamentals
@@ -58,15 +78,19 @@ The journey covers Python, SQL, Data Science, Machine Learning, AI, problem solv
 - [ ] Classification
 - [ ] Model Evaluation
 - [ ] Feature Engineering
-- [ ] ML Projects
+- [ ] Machine Learning Projects
+
+---
 
 ## 🧠 AI & GenAI
 
 - [ ] Deep Learning
 - [ ] Computer Vision
-- [ ] NLP
+- [ ] Natural Language Processing
 - [ ] Generative AI
 - [ ] AI Projects
+
+---
 
 ## 💼 Placement Preparation
 
@@ -77,6 +101,20 @@ The journey covers Python, SQL, Data Science, Machine Learning, AI, problem solv
 - [ ] Resume & Portfolio
 - [ ] Mock Interview Practice
 
+---
+
+## 🚀 Projects
+
+- [ ] Python Mini Project
+- [ ] Data Analysis Project
+- [ ] Machine Learning Project
+- [ ] AI / GenAI Project
+- [ ] Final Portfolio Project
+
+---
+
 ## 🎯 Goal
 
-Build strong technical fundamentals, solve placement-oriented problems, develop practical AI/Data Science projects, and become industry-ready through consistent hands-on learning.
+Build strong technical fundamentals, develop problem-solving skills, work with real-world data, build practical AI/Data Science projects, and become placement-ready through consistent hands-on learning.
+
+**100 Days → Learn → Build → Solve → Prepare → Get Placement-Ready 🚀**
