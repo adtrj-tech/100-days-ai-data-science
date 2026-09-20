@@ -33,13 +33,13 @@ The journey focuses on building strong programming fundamentals, solving placeme
 - [x] [Day 21 - Functions in Depth](day21_python_functions.py)
 - [x] [Day 22 - List, Dictionary & Set Comprehensions](day22_comprehensions.py)
 - [x] [Day 23 - Advanced Function Techniques](day23_function_techniques.py)
-- [ ] [Day 24 - Exception Handling](day24_exception_handling.py)
-- [ ] [Day 25 - File Handling](day25_file_handling.py)
-- [ ] [Day 26 - Modules & Packages](day26_modules_packages.py)
-- [ ] [Day 27 - Object-Oriented Programming](day27_oop_fundamentals.py)
-- [ ] [Day 28 - OOP Practice]
-- [ ] [Day 29 - Python Problem Solving]
-- [ ] [Day 30 - Python Mini Project & Revision]
+- [x] [Day 24 - Exception Handling](day24_exception_handling.py)
+- [x] [Day 25 - File Handling](day25_file_handling.py)
+- [x] [Day 26 - Modules & Packages](day26_modules_packages.py)
+- [x] [Day 27 - Object-Oriented Programming](day27_oop_fundamentals.py)
+- [x] [Day 28 - OOP Practice](day28_oop_inheritance.py)
+- [x] [Day 29 - Python Problem Solving](day29_python_problem_solving.py)
+- [x] [Day 30 - Python Mini Project & Revision](day30_python_mini_project.py)
 
 ---
 
